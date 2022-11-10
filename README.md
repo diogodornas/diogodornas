@@ -34,7 +34,10 @@
 <br/>
 <br/>
 
-<h3 style=text-align:"center"> Estatísticas GitHub </h3>
+<div align="center">
+<h3> Estatísticas GitHub </h3>
+</div>
+
 <br>
 
 <div align="center">
