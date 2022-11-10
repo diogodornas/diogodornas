@@ -46,11 +46,9 @@
  </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/diogodornas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodornas&theme=dracula&show_icons=true" />
-  </a>             
-</div>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**diogodornas** github stats"/>
+</a>
 
              
 
