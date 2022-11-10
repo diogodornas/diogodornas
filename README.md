@@ -36,11 +36,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodornas&layout=compact&langs_count=7&theme=dark%22/%3E
+  <a href="https://github.com/diogodornas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodornas&theme=dracula&show_icons=true" />
+  </a> 
 </div>
 
-<a href="https://github.com/diogodornas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodornas&theme=dracula&show_icons=true" />
-</a>
 
 <br/>
 
