@@ -39,12 +39,9 @@
 
 <br>
 
-<div align="center">
   <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodornas&theme=dracula&hide_langs_below=1" />
   </a>
- </div>
-<br>
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**diogodornas** github stats"/>
