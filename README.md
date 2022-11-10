@@ -34,6 +34,12 @@
 <br/>
 <br/>
 
+<div align="center">
+  <a href="https://github.com/MuriloPerosa%22%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloPerosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPerosa&layout=compact&langs_count=7&theme=dark%22/%3E
+</div>
+
 <a href="https://github.com/diogodornas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodornas&theme=dracula&show_icons=true" />
 </a>
