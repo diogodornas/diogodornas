@@ -32,7 +32,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   
 <br/>
-<br/>
 
 <div align="center">
 <h3> Estatísticas GitHub </h3>
@@ -55,6 +54,7 @@
 
              
 
+<br/>
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
