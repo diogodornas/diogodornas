@@ -11,7 +11,7 @@
 
 <br/>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> Minhas Skills </h3>
 
 **Aplicações e Dados**
 
