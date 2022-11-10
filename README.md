@@ -34,11 +34,13 @@
 <br/>
 <br/>
 
-<div align="center" justify-content:center>
+<div align="center">
   <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodornas&theme=dracula&hide_langs_below=1" />
   </a>
-   
+</div>
+
+<div align="center">
   <a href="https://github.com/diogodornas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodornas&theme=dracula&show_icons=true" />
   </a> 
