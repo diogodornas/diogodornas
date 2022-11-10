@@ -35,10 +35,7 @@
 <br/>
 
 <div align="center">
- 
-</div>
-
-  <a href="https://github.com/diogodornas">
+    <a href="https://github.com/diogodornas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodornas&theme=dracula&show_icons=true" />
   </a> 
                          
@@ -50,3 +47,6 @@
 [![Linkedin: Diogo](https://img.shields.io/badge/-DiogoDurãesDornas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-dur%C3%A3es-dornas-24b7b26b/)](https://www.linkedin.com/in/diogo-dur%C3%A3es-dornas-24b7b26b/)
 [![Gmail Badge](https://img.shields.io/badge/-diogoduraes.ef@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogoduraes.ef@hotmail.com)](mailto:diogoduraes.ef@hotmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=diogodornas&style=social)](https://github.com/diogodornas)
+</div>
+
+
