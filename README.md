@@ -1,4 +1,4 @@
-### Olá, Devs! Sou o DIOGO DURÃES DORNAS, bem vindos ao meu perfil!
+### Olá, Devs! Sou o DIOGO DURÃES DORNAS, bem vindos ao meu GitHub!
 
 <br/>
 
