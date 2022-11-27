@@ -31,7 +31,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   
-<br/>
 
 <div align="center">
 <h3> Estatísticas GitHub </h3>
