@@ -33,6 +33,10 @@
              
 <br/>
 
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoDornas&theme=dracula&show_icons=true" />
+</a>
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Diogo](https://img.shields.io/badge/-DiogoDurãesDornas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-dur%C3%A3es-dornas-24b7b26b/)](https://www.linkedin.com/in/diogo-dur%C3%A3es-dornas-24b7b26b/)
