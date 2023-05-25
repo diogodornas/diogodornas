@@ -4,10 +4,9 @@
 
 <h3> Sobre mim </h3>
 
-- 🤔 &nbsp; Em transição de carreira, apaixonado por Front-End.
-- 🎓 &nbsp; Engenheiro Florestal e Bacharel em Direito, atualmente faço MBA em Engenharia de Software e estou fazendo um curso **Full Stack Web Developer** na escola <a href="https://www.growdev.com.br/">GROWDEV</a> e o curso **Explorer** na escola <a href="https://www.rocketseat.com.br/">ROCKETSEAT</a>.
+- 🎓 &nbsp; Engenheiro Florestal e Bacharel em Direito, MBA em Engenharia de Software. atualmente faço um curso **Full Stack Web Developer** na escola <a href="https://www.growdev.com.br/">GROWDEV</a> e o curso **Explorer** na escola <a href="https://www.rocketseat.com.br/">ROCKETSEAT</a>.
 - 💼 &nbsp; Trabalhando como **Engenheiro Florestal** na **MASTER - SOLUÇÕES AMBIENTAIS**
-- 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS3 e JavaScript (ES6+)**.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS3, JavaScript (ES6+), MySQL, Ruby on Rails**.
 
 <br/>
 
