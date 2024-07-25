@@ -4,9 +4,9 @@
 
 <h3> Sobre mim </h3>
 
-- 🎓 &nbsp; Engenheiro Florestal e Bacharel em Direito, MBA em Engenharia de Software. atualmente faço um curso **Full Stack Web Developer** na escola <a href="https://www.growdev.com.br/">GROWDEV</a> e o curso **Explorer** na escola <a href="https://www.rocketseat.com.br/">ROCKETSEAT</a>.
-- 💼 &nbsp; Trabalhando como **Engenheiro Florestal** na **MASTER - SOLUÇÕES AMBIENTAIS**
-- 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS3, JavaScript (ES6+), MySQL, Ruby on Rails**.
+- 🎓 &nbsp; Engenheiro Florestal e Bacharel em Direito e com MBA em Engenharia de Software. atualmente sou aluno do curso **Full Stack Web Developer** na escola <a href="https://www.growdev.com.br/">GROWDEV</a>.
+- 💼 &nbsp; Trabalhando como **Gerente Regional** no **Grupo VIMAIS** e **Analista de TI e Gerente de Projetos** na **Indikey Bank**, sendo responsável pelo nosso App de descontos e cashback **(Tá doida!?)**
+- 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS3, JavaScript (ES6+), MySQL, TypeScript**.
 
 <br/>
 
