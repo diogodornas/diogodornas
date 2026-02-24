@@ -5,7 +5,7 @@
 <h3> Sobre mim </h3>
 
 - 🎓 &nbsp; Engenheiro Florestal, Bacharel em Direito, com MBA em Engenharia de Software. atualmente dedico meu tempo com os estudos de Python, N8N, BotCity e Automation Anywhere.
-- 💼 &nbsp; Sou **Analista de TI e Gerente de Projetos** na **Indikey Bank** e **Desenvolvedor RPA** pela **Base Labs**.
+- 💼 &nbsp; Sou **Desenvolvedor Low Code** na **Indikey Bank** e **Desenvolvedor RPA** pela **Base Labs**.
 
 <br/>
 
